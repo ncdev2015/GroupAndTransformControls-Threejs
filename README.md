@@ -1,6 +1,6 @@
 # group-threejs
 
-How to load transform-controls to one group in Threejs
+This example adds a group container for 3D objects and a transform control instance
 
 ![Example](https://github.com/ncdev2015/GroupAndTransformControls-Threejs/blob/master/src/assets/demo.png)
 
