@@ -2,7 +2,7 @@
 
 How to load transform-controls to one group in Threejs
 
-![Example]()
+![Example](https://github.com/ncdev2015/GroupAndTransformControls-Threejs/blob/master/src/assets/demo.png)
 
 ## Project setup
 
