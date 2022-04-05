@@ -1,6 +1,6 @@
 # group-threejs
 
-This example adds a group container for 3D objects and a transform control instance to move it
+This example adds a group container to 3D objects and a transform control instance to move it.
 
 ![Example](https://github.com/ncdev2015/GroupAndTransformControls-Threejs/blob/master/src/assets/demo.png)
 
